@@ -67,13 +67,13 @@ Virtual environment (venv)
 # steps to run:
 **#Clone the Repository**
 
-git clone https://github.com/tasmiya102/RenalCellAdenocarcinoma_Prediction.git
+    git clone https://github.com/tasmiya102/RenalCellAdenocarcinoma_Prediction.git
 
-cd RenalCellAdenocarcinoma_Prediction
+    cd RenalCellAdenocarcinoma_Prediction
 
 **Create and Activate Virtual Environment**
 
-python -m venv venv
+    python -m venv venv
 
 **Windows**
 
