@@ -24,4 +24,4 @@ app.py
 ![APPOINTMENT](https://github.com/afra-af/RenalCellAdenocarcinoma_Detection/assets/81957946/603f6103-a655-4126-a9fb-bb7048774af7)
 
 <h1>CONTACT US PAGE</h1>
-![CONTACT](https://github.com/afra-af/RenalCellAdenocarcinoma_Detection/assets/81957946/59ff4c08-65bd-4ba3-b311-b290575d96c5)
+![CONTACT](https://github.com/tasmiya102/RenalCellAdenocarcinoma_Prediction/blob/main/Screenshot%20(4).png)
