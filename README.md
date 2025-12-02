@@ -77,11 +77,11 @@ Virtual environment (venv)
 
 **Windows**
 
-venv\Scripts\activate
+    venv\Scripts\activate
 
 **Install Required Packages**
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 **Set Up MySQL Database**
 
@@ -89,19 +89,19 @@ Install and start MySQL
 
 Create a new database:
 
-CREATE DATABASE rcc_prediction;
+    CREATE DATABASE rcc_prediction;
 
 Update the database URI in your Flask config:
 
-mysql+pymysql://username:password@localhost/rcc_prediction
+    mysql+pymysql://username:password@localhost/rcc_prediction
 
 **Initialize Database Tables**
 
-flask db upgrade
+    flask db upgrade
 
 **Run the Application**
 
-python app.py
+    python app.py
 
 # DEMO
 <h1>HOME PAGE</h1>
