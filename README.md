@@ -66,28 +66,41 @@ Virtual environment (venv)
 
 # steps to run:
 **#Clone the Repository**
+
 git clone https://github.com/tasmiya102/RenalCellAdenocarcinoma_Prediction.git
+
 cd RenalCellAdenocarcinoma_Prediction
+
 **Create and Activate Virtual Environment**
+
 python -m venv venv
 
 **Windows**
+
 venv\Scripts\activate
 
 **Install Required Packages**
+
 pip install -r requirements.txt
 
 **Set Up MySQL Database**
+
 Install and start MySQL
+
 Create a new database:
+
 CREATE DATABASE rcc_prediction;
+
 Update the database URI in your Flask config:
+
 mysql+pymysql://username:password@localhost/rcc_prediction
 
 **Initialize Database Tables**
+
 flask db upgrade
 
 **Run the Application**
+
 python app.py
 
 # DEMO
