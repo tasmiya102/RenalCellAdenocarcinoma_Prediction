@@ -11,14 +11,23 @@ MySQL manages user authentication and data storage, with SQLAlchemy acting as th
 This combination ensures secure data handling, seamless communication between components, and fast, reliable predictions — ultimately reducing diagnostic delays, lowering costs, improving precision, and easing the workload on medical personnel.
 
 🚀 Features
+
 🧪 ML model (RandomForestClassifier) trained on clinical blood test parameters
+
 🌐 Interactive web interface for easy data input
+
 🔐 User authentication system (signup, login, stored history)
+
 🗄 Dual-backend architecture
+
     -Flask handles ML inference
+    
     -MySQL stores user data
+    
 🔗 SQLAlchemy ORM connects Flask with MySQL
+
 ⚡ Instant RCC prediction
+
 📊 Model retraining capability
 
 
