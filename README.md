@@ -13,11 +13,11 @@ app.py
 
 <h1>CHECKUP PAGE</h1>
 
-![Screenshot (324)](https://github.com/afra-af/RenalCellAdenocarcinoma_Detection/assets/81957946/f4f8f3df-8897-4d61-9318-b3db7fb9d23f)
+![CHECK UP](https://github.com/tasmiya102/RenalCellAdenocarcinoma_Prediction/blob/main/Screenshot%20(5).png)
 
 <h1>RESULT </h1>
 
-![Screenshot (328)](https://github.com/afra-af/RenalCellAdenocarcinoma_Detection/assets/81957946/babb35df-3ba0-41bf-b0f6-cda21e9c3329)
+![RESULT](https://github.com/tasmiya102/RenalCellAdenocarcinoma_Prediction/blob/main/Screenshot%20(6).png)
 
 <h1>APPOINTMENT BOOKING FORM</h1>
 
