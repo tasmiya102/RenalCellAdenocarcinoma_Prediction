@@ -9,7 +9,7 @@ Machine learning  model: RandomForestClassifier
 app.py
 # DEMO
 <h1>HOME PAGE</h1>
-![Screenshot (322)](https://github.com/afra-af/RenalCellAdenocarcinoma_Detection/assets/81957946/bb84bd72-137c-44be-9f56-13cf489ef43f)
+![[Screenshot (322)](https://github.com/afra-af/RenalCellAdenocarcinoma_Detection/assets/81957946/bb84bd72-137c-44be-9f56-13cf489ef43f)](https://github.com/tasmiya102/RenalCellAdenocarcinoma_Prediction/blob/main/Screenshot%20(3).png)
 
 <h1>CHECKUP PAGE</h1>
 
